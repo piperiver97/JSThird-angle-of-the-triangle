@@ -1,25 +1,16 @@
-{
-  "name": "js-triangle",
-  "version": "1.0.0",
-  "main": "index.js",
-  "directories": {
-    "test": "test"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/piperiver97/JSThird-angle-of-the-triangle.git"
-  },
-  "author": "Felipe Riveros",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/piperiver97/JSThird-angle-of-the-triangle/issues"
-  },
-  "homepage": "https://github.com/piperiver97/JSThird-angle-of-the-triangle#readme",
-  "description": "",
-  "dependencies": {
-    "vitest": "^2.0.1"
-  }
-}
+
+  {
+    "name": "js-triangle",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+      "test": "vitest"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+      "vitest": "^1.6.0"
+    }
+  }  
